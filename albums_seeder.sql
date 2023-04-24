@@ -19,13 +19,14 @@ VALUES ('Michael Jackson', 'Thriller', '1982', '51.2', 'Pop'),
     ('Pink Floyd', 'The Wall', '1979', '18.9', 'Progressive rock'),
     ('ABBA', 'Gold: Greatest Hits', '1992', '21.6', 'Pop'),
     ('The Beatles', 'Abbey Road', '1969', '16.9', 'Rock'),
-    ('The Beatles', 'Sgt Pepper Lonely Hearts Club Band', '1967', '18.3', 'Rock'),
+    ('The Beatles', 'Sgt Pepper''s Lonely Hearts Club Band', '1967', '18.3', 'Rock'),
     ('Celine Dion', 'Falling Into You', '1996', '21.1', 'Pop'),
-    ('Celine Dion', 'Lets Talk About Love', '1997', '20.5', 'Pop'),
+    ('Celine Dion', 'Let''s Talk About Love', '1997', '20.5', 'Pop'),
     ('Dire Straits', 'Brothers in Arms', '1985', '21.1', 'Roots rock'),
-    ('Guns N Roses', 'Appetite dor Destruction', '1987', '22.8', 'Hard rock'),
+    ('Guns N Roses', 'Appetite for Destruction', '1987', '22.8', 'Hard rock'),
     ('Michael Jackson', 'Bad', '1987', '21.2', 'Pop'),
     ('Michael Jackson', 'Dangerous', '1991', '17.0', 'New jack swing'),
+    ('Nirvana', 'Nevermind', '1991', '17.8', 'Grunge'),
     ('Bob Marley', 'The Best of Bob Marley', '1984', '22.9', 'Reggae');
 
 
